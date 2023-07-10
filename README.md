@@ -26,5 +26,5 @@ npm run dev
 
 <ul>
 <li>In the test of 'Click Me' i have used spyOn because how else can you check that console.log is called</li>
-<li>In the test of 'add(1,2)' i simply performed click and check that the result is on the dom. this is sometime called 'social test'</li>
+<li>In the test of 'add(1,2)' i simply performed click and check that the result is on the dom. this is sometime called 'sociable unit test'</li>
 </ul>
